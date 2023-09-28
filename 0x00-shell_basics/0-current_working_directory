@@ -1,1 +1,2 @@
-printf $ (pwd) | wc -m
+#!/bin/bash
+pwd -P
